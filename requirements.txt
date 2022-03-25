@@ -1,0 +1,2 @@
+imap_tools==0.51.1
+requests==2.26.0
